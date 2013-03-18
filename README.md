@@ -1,7 +1,8 @@
+# Browserify v2 example with CoffeeScript Source Maps
 
-# Browserify v2 with CoffeeScript Source Maps
+<img src=https://github.com/epeli/browserify-cs-example/raw/master/screenshot.png>
 
-Install deps
+Clone this repo and install deps
 
     npm install
 
