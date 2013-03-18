@@ -1,0 +1,10 @@
+{
+  "name": "browserify-cs-example",
+  "version": "0.0.0",
+  "description": "Browserify v2 with CoffeeScript Source Maps",
+  "dependencies": {
+    "coffeeify": "~0.2.0",
+    "browserify": "~2.7.1",
+    "serve": "~1.2.0"
+  }
+}
