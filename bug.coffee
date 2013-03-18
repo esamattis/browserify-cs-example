@@ -2,9 +2,12 @@
 
 class Bug
 
-  do: (val) ->
+  # Calls given function
+  call: (fn) ->
 
-    imAbug()
+    console.log "Gonna call the function"
+    fn()
+
 
 
 module.exports = Bug
