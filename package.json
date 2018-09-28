@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "description": "Browserify v2 with CoffeeScript Source Maps",
   "dependencies": {
-    "coffeeify": "~0.2.0",
-    "browserify": "~2.7.1",
-    "serve": "~1.2.0"
+    "coffeeify": "~3.0.1",
+    "browserify": "~16.2.3",
+    "serve": "~10.0.2"
   }
 }
